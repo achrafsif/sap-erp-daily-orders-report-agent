@@ -157,3 +157,23 @@ Built an end-to-end SAP/ERP daily orders reporting agent using n8n, JavaScript, 
 
 Achraf Sifaddine  
 Data Analytics | AI Automation | Supply Chain Reporting
+
+## Project Screenshots
+
+### 1. n8n Workflow Overview
+![n8n Workflow Overview](screenshots/01_workflow_overview.png)
+
+### 2. Gmail PDF Report Result
+![Gmail PDF Report Result](screenshots/12_gmail_pdf_report_result_redacted.png)
+
+### 3. Telegram Alert Result
+![Telegram Alert Result](screenshots/11_telegram_alert_result.png)
+
+### 4. Looker Studio KPI Dashboard
+![Looker Studio KPI Dashboard](screenshots/13_looker_studio_kpi_dashboard_redacted.png)
+
+### 5. Google Sheets KPI Mapping
+![Google Sheets KPI Mapping](screenshots/07_google_sheets_mapping_part_1.png)
+
+### 6. Gmail Trigger Configuration
+![Gmail Trigger Configuration](screenshots/10_gmail_trigger_settings_redacted.png)
